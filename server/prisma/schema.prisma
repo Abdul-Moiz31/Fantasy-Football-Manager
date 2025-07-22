@@ -1,0 +1,42 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model team_players {
+  id                 Int      @id @default(autoincrement())
+  team_id            String
+  player_id          Int      // This references JSON data, not a DB table
+  in_transfer_market Boolean  @default(false)
+  asking_price       Int?
+  created_at         DateTime @default(now())
+  updated_at         DateTime
+  teams              teams    @relation(fields: [team_id], references: [id], onDelete: Cascade)
+
+  @@unique([team_id, player_id])
+}
+
+model teams {
+  id           String         @id
+  name         String
+  user_id      String         @unique
+  budget       Int            @default(5000000)
+  player_count Int            @default(0)
+  created_at   DateTime       @default(now())
+  updated_at   DateTime
+  team_players team_players[]
+  users        users          @relation(fields: [user_id], references: [id], onDelete: Cascade)
+}
+
+model users {
+  id         String   @id
+  email      String   @unique
+  password   String
+  created_at DateTime @default(now())
+  updated_at DateTime
+  teams      teams?
+}

@@ -1,0 +1,4507 @@
+[
+  {
+    "player_id": 1,
+    "player_name": "Melissa Brewer",
+    "player_value": 2228730,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "ri96wc18g",
+    "value": 2228730
+  },
+  {
+    "player_id": 2,
+    "player_name": "Sarah Johnson",
+    "player_value": 1769940,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "ab123def4",
+    "value": 1769940
+  },
+  {
+    "player_id": 3,
+    "player_name": "Michael Smith",
+    "player_value": 2973331,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "cd456ghi7",
+    "value": 2973331
+  },
+  {
+    "player_id": 4,
+    "player_name": "Emma Wilson",
+    "player_value": 3797732,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "ef789jkl0",
+    "value": 3797732
+  },
+  {
+    "player_id": 5,
+    "player_name": "James Brown",
+    "player_value": 3446953,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "gh012mno3",
+    "value": 3446953
+  },
+  {
+    "player_id": 6,
+    "player_name": "David Martinez",
+    "player_value": 3051569,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 3051569
+  },
+  {
+    "player_id": 7,
+    "player_name": "Bryan Herrera",
+    "player_value": 3034669,
+    "position": "Forward",
+    "is_listed_for_sale": true,
+    "team_id": "team_3",
+    "value": 3034669,
+    "listed_by_user_id": "4y1clivi8",
+    "listing_price": "10000"
+  },
+  {
+    "player_id": 8,
+    "player_name": "Cathy Robinson",
+    "player_value": 3536151,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 3536151
+  },
+  {
+    "player_id": 9,
+    "player_name": "Dr. William Warren",
+    "player_value": 958412,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 958412
+  },
+  {
+    "player_id": 10,
+    "player_name": "Brian Lee",
+    "player_value": 1673666,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 1673666
+  },
+  {
+    "player_id": 11,
+    "player_name": "Christopher Smith",
+    "player_value": 1541929,
+    "position": "Defender",
+    "is_listed_for_sale": true,
+    "team_id": "team_17",
+    "value": 1541929,
+    "listed_by_user_id": "4y1clivi8",
+    "listing_price": "100000"
+  },
+  {
+    "player_id": 12,
+    "player_name": "Denise Mccann",
+    "player_value": 2830380,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2830380
+  },
+  {
+    "player_id": 13,
+    "player_name": "Melissa Martinez",
+    "player_value": 1127771,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1127771
+  },
+  {
+    "player_id": 14,
+    "player_name": "Katherine Salas",
+    "player_value": 2501544,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 2501544
+  },
+  {
+    "player_id": 15,
+    "player_name": "Julie Alexander",
+    "player_value": 1638583,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "ear09x74n",
+    "value": 1638583
+  },
+  {
+    "player_id": 16,
+    "player_name": "Anthony Everett",
+    "player_value": 3398263,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3398263
+  },
+  {
+    "player_id": 17,
+    "player_name": "Rodney Morales",
+    "player_value": 1598504,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1598504
+  },
+  {
+    "player_id": 18,
+    "player_name": "Mark Brown",
+    "player_value": 1616104,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1616104
+  },
+  {
+    "player_id": 19,
+    "player_name": "Justin Torres",
+    "player_value": 1209484,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1209484
+  },
+  {
+    "player_id": 20,
+    "player_name": "Bailey Duran DDS",
+    "player_value": 4298462,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 4298462
+  },
+  {
+    "player_id": 21,
+    "player_name": "Courtney Mills",
+    "player_value": 1797201,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1797201
+  },
+  {
+    "player_id": 22,
+    "player_name": "Jeremy Dalton",
+    "player_value": 1281499,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1281499
+  },
+  {
+    "player_id": 23,
+    "player_name": "Elizabeth Oliver DDS",
+    "player_value": 2870336,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "ear09x74n",
+    "value": 2870336
+  },
+  {
+    "player_id": 24,
+    "player_name": "Theresa Clark",
+    "player_value": 1398051,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1398051
+  },
+  {
+    "player_id": 25,
+    "player_name": "Matthew Moore",
+    "player_value": 3600523,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "3xujkghal",
+    "value": 3600523
+  },
+  {
+    "player_id": 26,
+    "player_name": "Benjamin Smith",
+    "player_value": 1360695,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1360695
+  },
+  {
+    "player_id": 27,
+    "player_name": "Kirk Carter",
+    "player_value": 3379358,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "3xujkghal",
+    "value": 3379358
+  },
+  {
+    "player_id": 28,
+    "player_name": "Michael Warner",
+    "player_value": 1781500,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1781500
+  },
+  {
+    "player_id": 29,
+    "player_name": "Michael Bradshaw",
+    "player_value": 1658709,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "mbjjyvsic",
+    "value": 1658709
+  },
+  {
+    "player_id": 30,
+    "player_name": "Lori Guerrero",
+    "player_value": 3795483,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "vdopmvg1t",
+    "value": 3795483
+  },
+  {
+    "player_id": 31,
+    "player_name": "Jessica Stephens",
+    "player_value": 3054755,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 3054755
+  },
+  {
+    "player_id": 32,
+    "player_name": "Susan Serrano",
+    "player_value": 3942026,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "9rrqa3xwu",
+    "value": 3942026
+  },
+  {
+    "player_id": 33,
+    "player_name": "Christopher Parker",
+    "player_value": 1865014,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1865014
+  },
+  {
+    "player_id": 34,
+    "player_name": "Laura Roberts",
+    "player_value": 2402877,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2402877
+  },
+  {
+    "player_id": 35,
+    "player_name": "Michael Lyons",
+    "player_value": 1096071,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1096071
+  },
+  {
+    "player_id": 36,
+    "player_name": "Kathryn Snyder",
+    "player_value": 2501750,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2501750
+  },
+  {
+    "player_id": 37,
+    "player_name": "Andrew Reynolds",
+    "player_value": 1318218,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1318218
+  },
+  {
+    "player_id": 38,
+    "player_name": "David Davis",
+    "player_value": 3461301,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 3461301
+  },
+  {
+    "player_id": 39,
+    "player_name": "Sara Johnston",
+    "player_value": 4932890,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 4932890
+  },
+  {
+    "player_id": 40,
+    "player_name": "Yvonne Chambers",
+    "player_value": 1735940,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1735940
+  },
+  {
+    "player_id": 41,
+    "player_name": "Andrew Avila",
+    "player_value": 2423575,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 2423575
+  },
+  {
+    "player_id": 42,
+    "player_name": "Matthew Moon",
+    "player_value": 1767498,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1767498
+  },
+  {
+    "player_id": 43,
+    "player_name": "Kevin Walters",
+    "player_value": 3640900,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 3640900
+  },
+  {
+    "player_id": 44,
+    "player_name": "Brandon Bailey MD",
+    "player_value": 909230,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 909230
+  },
+  {
+    "player_id": 45,
+    "player_name": "Shannon Rivera",
+    "player_value": 1133334,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 1133334
+  },
+  {
+    "player_id": 46,
+    "player_name": "Donna Landry",
+    "player_value": 2366690,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2366690
+  },
+  {
+    "player_id": 47,
+    "player_name": "Krista Gibson",
+    "player_value": 1876347,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1876347
+  },
+  {
+    "player_id": 48,
+    "player_name": "Frank Cordova",
+    "player_value": 1828061,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1828061
+  },
+  {
+    "player_id": 49,
+    "player_name": "Jose Travis",
+    "player_value": 1638735,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1638735
+  },
+  {
+    "player_id": 50,
+    "player_name": "Kimberly Gutierrez",
+    "player_value": 2992338,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2992338
+  },
+  {
+    "player_id": 51,
+    "player_name": "Isaiah Avila",
+    "player_value": 1105624,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1105624
+  },
+  {
+    "player_id": 52,
+    "player_name": "Olivia Harris",
+    "player_value": 994995,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 994995
+  },
+  {
+    "player_id": 53,
+    "player_name": "Tanya Kim",
+    "player_value": 1795149,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1795149
+  },
+  {
+    "player_id": 54,
+    "player_name": "Barbara Dudley",
+    "player_value": 2912173,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 2912173
+  },
+  {
+    "player_id": 55,
+    "player_name": "Cynthia Moore",
+    "player_value": 2331657,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "b2zz7ga3v",
+    "value": 2331657
+  },
+  {
+    "player_id": 56,
+    "player_name": "Kristen Davis",
+    "player_value": 2000249,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2000249
+  },
+  {
+    "player_id": 57,
+    "player_name": "Susan Murray MD",
+    "player_value": 3276309,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 3276309
+  },
+  {
+    "player_id": 58,
+    "player_name": "Kathleen Moran",
+    "player_value": 3474550,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 3474550
+  },
+  {
+    "player_id": 59,
+    "player_name": "Denise Davenport",
+    "player_value": 1510384,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1510384
+  },
+  {
+    "player_id": 60,
+    "player_name": "Mrs. Kristen Reyes",
+    "player_value": 2242824,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2242824
+  },
+  {
+    "player_id": 61,
+    "player_name": "Katie Suarez",
+    "player_value": 1405573,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "b2zz7ga3v",
+    "value": 1405573
+  },
+  {
+    "player_id": 62,
+    "player_name": "Desiree Tyler",
+    "player_value": 2972730,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2972730
+  },
+  {
+    "player_id": 63,
+    "player_name": "Timothy Romero",
+    "player_value": 1700605,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1700605
+  },
+  {
+    "player_id": 64,
+    "player_name": "Diane Evans",
+    "player_value": 2306248,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2306248
+  },
+  {
+    "player_id": 65,
+    "player_name": "Yvonne Burns",
+    "player_value": 852638,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 852638
+  },
+  {
+    "player_id": 66,
+    "player_name": "Joshua Reed",
+    "player_value": 2676963,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "vdopmvg1t",
+    "value": 2676963
+  },
+  {
+    "player_id": 67,
+    "player_name": "Kimberly Gibson",
+    "player_value": 1644702,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "h3xwxit11",
+    "value": 1644702
+  },
+  {
+    "player_id": 68,
+    "player_name": "Colin Terry",
+    "player_value": 2579210,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2579210
+  },
+  {
+    "player_id": 69,
+    "player_name": "Cynthia Rowe",
+    "player_value": 2000432,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2000432
+  },
+  {
+    "player_id": 70,
+    "player_name": "Patrick Thornton",
+    "player_value": 1446896,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "3xujkghal",
+    "value": 1446896
+  },
+  {
+    "player_id": 71,
+    "player_name": "Jasmin Alvarado",
+    "player_value": 2447552,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2447552
+  },
+  {
+    "player_id": 72,
+    "player_name": "Veronica Simpson",
+    "player_value": 3368823,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 3368823
+  },
+  {
+    "player_id": 73,
+    "player_name": "Jonathan Lawrence",
+    "player_value": 1674178,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "qrnadeu9v",
+    "value": 1674178
+  },
+  {
+    "player_id": 74,
+    "player_name": "Shelly Alexander",
+    "player_value": 3006406,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 3006406
+  },
+  {
+    "player_id": 75,
+    "player_name": "Joyce Bowen",
+    "player_value": 1171390,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1171390
+  },
+  {
+    "player_id": 76,
+    "player_name": "Wayne Morgan",
+    "player_value": 3686220,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "31sewww0p",
+    "value": 3686220
+  },
+  {
+    "player_id": 77,
+    "player_name": "Marie Christian",
+    "player_value": 2679903,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 2679903
+  },
+  {
+    "player_id": 78,
+    "player_name": "Shannon James",
+    "player_value": 2200121,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2200121
+  },
+  {
+    "player_id": 79,
+    "player_name": "Nathan Malone",
+    "player_value": 3485777,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 3485777
+  },
+  {
+    "player_id": 80,
+    "player_name": "Amanda Jones",
+    "player_value": 998209,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 998209
+  },
+  {
+    "player_id": 81,
+    "player_name": "Tammie Bright",
+    "player_value": 924413,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 924413
+  },
+  {
+    "player_id": 82,
+    "player_name": "Jessica Garcia",
+    "player_value": 3722755,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3722755
+  },
+  {
+    "player_id": 83,
+    "player_name": "Shelia Wallace",
+    "player_value": 1065993,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1065993
+  },
+  {
+    "player_id": 84,
+    "player_name": "Stephanie Williams",
+    "player_value": 3821710,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 3821710
+  },
+  {
+    "player_id": 85,
+    "player_name": "Elaine Brooks",
+    "player_value": 2439273,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2439273
+  },
+  {
+    "player_id": 86,
+    "player_name": "Joseph Knight",
+    "player_value": 967052,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 967052
+  },
+  {
+    "player_id": 87,
+    "player_name": "Carolyn Miller",
+    "player_value": 1512388,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1512388
+  },
+  {
+    "player_id": 88,
+    "player_name": "Lisa Allen",
+    "player_value": 2151548,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 2151548
+  },
+  {
+    "player_id": 89,
+    "player_name": "Briana Murray",
+    "player_value": 2145962,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2145962
+  },
+  {
+    "player_id": 90,
+    "player_name": "David Smith",
+    "player_value": 3241237,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 3241237
+  },
+  {
+    "player_id": 91,
+    "player_name": "Stephanie Byrd",
+    "player_value": 3038636,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 3038636
+  },
+  {
+    "player_id": 92,
+    "player_name": "Jeremy Reed",
+    "player_value": 2686354,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2686354
+  },
+  {
+    "player_id": 93,
+    "player_name": "Margaret Coleman",
+    "player_value": 2300742,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2300742
+  },
+  {
+    "player_id": 94,
+    "player_name": "Ryan Gonzalez",
+    "player_value": 4224140,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 4224140
+  },
+  {
+    "player_id": 95,
+    "player_name": "John Young",
+    "player_value": 3569190,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 3569190
+  },
+  {
+    "player_id": 96,
+    "player_name": "Laura Haney",
+    "player_value": 2904873,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 2904873
+  },
+  {
+    "player_id": 97,
+    "player_name": "William Barrett",
+    "player_value": 3549602,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 3549602
+  },
+  {
+    "player_id": 98,
+    "player_name": "Keith Jennings",
+    "player_value": 2494254,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 2494254
+  },
+  {
+    "player_id": 99,
+    "player_name": "Amber Obrien",
+    "player_value": 1910639,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1910639
+  },
+  {
+    "player_id": 100,
+    "player_name": "Tanner Mitchell DDS",
+    "player_value": 1708054,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1708054
+  },
+  {
+    "player_id": 101,
+    "player_name": "Heather Fields",
+    "player_value": 3154191,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 3154191
+  },
+  {
+    "player_id": 102,
+    "player_name": "Megan Le",
+    "player_value": 1352886,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1352886
+  },
+  {
+    "player_id": 103,
+    "player_name": "Sara Fuller",
+    "player_value": 4599670,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 4599670
+  },
+  {
+    "player_id": 104,
+    "player_name": "Maria Parker",
+    "player_value": 817070,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "31sewww0p",
+    "value": 817070
+  },
+  {
+    "player_id": 105,
+    "player_name": "Kevin Oconnor",
+    "player_value": 2518565,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2518565
+  },
+  {
+    "player_id": 106,
+    "player_name": "Edward Burgess",
+    "player_value": 2090695,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2090695
+  },
+  {
+    "player_id": 107,
+    "player_name": "Carlos Ryan",
+    "player_value": 1351197,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1351197
+  },
+  {
+    "player_id": 108,
+    "player_name": "Kiara Mcintyre",
+    "player_value": 3941658,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 3941658
+  },
+  {
+    "player_id": 109,
+    "player_name": "Dawn Summers",
+    "player_value": 4594908,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 4594908
+  },
+  {
+    "player_id": 110,
+    "player_name": "Dr. Paul Morgan",
+    "player_value": 869676,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 869676
+  },
+  {
+    "player_id": 111,
+    "player_name": "Victor Taylor",
+    "player_value": 2910532,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2910532
+  },
+  {
+    "player_id": 112,
+    "player_name": "Shannon Ramsey",
+    "player_value": 2764015,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2764015
+  },
+  {
+    "player_id": 113,
+    "player_name": "Tracy Ballard",
+    "player_value": 1504373,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1504373
+  },
+  {
+    "player_id": 114,
+    "player_name": "Richard Smith",
+    "player_value": 2582941,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 2582941
+  },
+  {
+    "player_id": 115,
+    "player_name": "Jordan Chambers",
+    "player_value": 2051280,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2051280
+  },
+  {
+    "player_id": 116,
+    "player_name": "Lauren Carson",
+    "player_value": 3354447,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3354447
+  },
+  {
+    "player_id": 117,
+    "player_name": "Ashley Hall",
+    "player_value": 3970555,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "9rrqa3xwu",
+    "value": 3970555
+  },
+  {
+    "player_id": 118,
+    "player_name": "Stephen Hoffman",
+    "player_value": 1005356,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1005356
+  },
+  {
+    "player_id": 119,
+    "player_name": "Connie Brown",
+    "player_value": 1749111,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1749111
+  },
+  {
+    "player_id": 120,
+    "player_name": "Susan Turner",
+    "player_value": 1016417,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1016417
+  },
+  {
+    "player_id": 121,
+    "player_name": "Charles Shah",
+    "player_value": 2383642,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2383642
+  },
+  {
+    "player_id": 122,
+    "player_name": "Johnathan Davis",
+    "player_value": 3587577,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3587577
+  },
+  {
+    "player_id": 123,
+    "player_name": "Brandy Chavez",
+    "player_value": 2080149,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2080149
+  },
+  {
+    "player_id": 124,
+    "player_name": "Natalie Bautista",
+    "player_value": 3213914,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 3213914
+  },
+  {
+    "player_id": 125,
+    "player_name": "Patrick Moore",
+    "player_value": 1190265,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1190265
+  },
+  {
+    "player_id": 126,
+    "player_name": "Brett Burns",
+    "player_value": 4650809,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 4650809
+  },
+  {
+    "player_id": 127,
+    "player_name": "Trevor Johnson",
+    "player_value": 1124604,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1124604
+  },
+  {
+    "player_id": 128,
+    "player_name": "Jeremy Sampson",
+    "player_value": 1806998,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1806998
+  },
+  {
+    "player_id": 129,
+    "player_name": "Ariana Jennings",
+    "player_value": 1694221,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1694221
+  },
+  {
+    "player_id": 130,
+    "player_name": "Vanessa Howard",
+    "player_value": 2689804,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2689804
+  },
+  {
+    "player_id": 131,
+    "player_name": "Colton Martinez",
+    "player_value": 2676120,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "b2zz7ga3v",
+    "value": 2676120
+  },
+  {
+    "player_id": 132,
+    "player_name": "Jordan Bates",
+    "player_value": 3815360,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 3815360
+  },
+  {
+    "player_id": 133,
+    "player_name": "Linda Smith",
+    "player_value": 2726392,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2726392
+  },
+  {
+    "player_id": 134,
+    "player_name": "Dana Martinez",
+    "player_value": 3540473,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 3540473
+  },
+  {
+    "player_id": 135,
+    "player_name": "Andrea Hubbard",
+    "player_value": 1224409,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1224409
+  },
+  {
+    "player_id": 136,
+    "player_name": "Daniel Kane",
+    "player_value": 3570415,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 3570415
+  },
+  {
+    "player_id": 137,
+    "player_name": "Charles Lester",
+    "player_value": 1384316,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1384316
+  },
+  {
+    "player_id": 138,
+    "player_name": "Scott Thomas",
+    "player_value": 4172608,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 4172608
+  },
+  {
+    "player_id": 139,
+    "player_name": "David Thompson",
+    "player_value": 2105177,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2105177
+  },
+  {
+    "player_id": 140,
+    "player_name": "Allison Smith",
+    "player_value": 1939445,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1939445
+  },
+  {
+    "player_id": 141,
+    "player_name": "Cynthia Morris",
+    "player_value": 2706011,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2706011
+  },
+  {
+    "player_id": 142,
+    "player_name": "Anthony Harmon",
+    "player_value": 2648211,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2648211
+  },
+  {
+    "player_id": 143,
+    "player_name": "Nichole Alvarez",
+    "player_value": 2839303,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 2839303
+  },
+  {
+    "player_id": 144,
+    "player_name": "Kayla Rodriguez",
+    "player_value": 1248994,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1248994
+  },
+  {
+    "player_id": 145,
+    "player_name": "Theresa Williams",
+    "player_value": 1688343,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1688343
+  },
+  {
+    "player_id": 146,
+    "player_name": "Sharon Boyd",
+    "player_value": 1788189,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1788189
+  },
+  {
+    "player_id": 147,
+    "player_name": "Victor Brown",
+    "player_value": 2305140,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 2305140
+  },
+  {
+    "player_id": 148,
+    "player_name": "James Parks",
+    "player_value": 2267322,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2267322
+  },
+  {
+    "player_id": 149,
+    "player_name": "Theodore Jones Jr.",
+    "player_value": 2204855,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2204855
+  },
+  {
+    "player_id": 150,
+    "player_name": "Ana Hill",
+    "player_value": 1573285,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1573285
+  },
+  {
+    "player_id": 151,
+    "player_name": "Kimberly Nguyen",
+    "player_value": 2717660,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2717660
+  },
+  {
+    "player_id": 152,
+    "player_name": "Kerry Chavez DDS",
+    "player_value": 1725909,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1725909
+  },
+  {
+    "player_id": 153,
+    "player_name": "Michael Farrell",
+    "player_value": 1102553,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1102553
+  },
+  {
+    "player_id": 154,
+    "player_name": "Patricia Le",
+    "player_value": 3888444,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3888444
+  },
+  {
+    "player_id": 155,
+    "player_name": "Jesse Perez",
+    "player_value": 1579633,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1579633
+  },
+  {
+    "player_id": 156,
+    "player_name": "Jesse Perry",
+    "player_value": 3509778,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 3509778
+  },
+  {
+    "player_id": 157,
+    "player_name": "Jeffery Ortega",
+    "player_value": 4229396,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 4229396
+  },
+  {
+    "player_id": 158,
+    "player_name": "Christian Leblanc",
+    "player_value": 2475032,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2475032
+  },
+  {
+    "player_id": 159,
+    "player_name": "Ronald Davis",
+    "player_value": 3458668,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 3458668
+  },
+  {
+    "player_id": 160,
+    "player_name": "Parker Cain",
+    "player_value": 2804258,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 2804258
+  },
+  {
+    "player_id": 161,
+    "player_name": "Laurie Hoffman",
+    "player_value": 1454890,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 1454890
+  },
+  {
+    "player_id": 162,
+    "player_name": "Bryan Gomez",
+    "player_value": 3250803,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 3250803
+  },
+  {
+    "player_id": 163,
+    "player_name": "Nicole Parrish",
+    "player_value": 1505003,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1505003
+  },
+  {
+    "player_id": 164,
+    "player_name": "Tracy Burke",
+    "player_value": 1761040,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1761040
+  },
+  {
+    "player_id": 165,
+    "player_name": "Kenneth Lewis",
+    "player_value": 1273650,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1273650
+  },
+  {
+    "player_id": 166,
+    "player_name": "Courtney Rodriguez",
+    "player_value": 2206442,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2206442
+  },
+  {
+    "player_id": 167,
+    "player_name": "Holly Farmer",
+    "player_value": 808994,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 808994
+  },
+  {
+    "player_id": 168,
+    "player_name": "Renee Bruce",
+    "player_value": 4785812,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 4785812
+  },
+  {
+    "player_id": 169,
+    "player_name": "Sabrina Austin",
+    "player_value": 951214,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 951214
+  },
+  {
+    "player_id": 170,
+    "player_name": "Allison Hickman",
+    "player_value": 3151952,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 3151952
+  },
+  {
+    "player_id": 171,
+    "player_name": "Debra White",
+    "player_value": 2973601,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2973601
+  },
+  {
+    "player_id": 172,
+    "player_name": "Ellen Morgan",
+    "player_value": 2906316,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2906316
+  },
+  {
+    "player_id": 173,
+    "player_name": "Sergio Knight",
+    "player_value": 1509262,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "9rrqa3xwu",
+    "value": 1509262
+  },
+  {
+    "player_id": 174,
+    "player_name": "Charles Schultz",
+    "player_value": 1553267,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1553267
+  },
+  {
+    "player_id": 175,
+    "player_name": "Paul Lewis",
+    "player_value": 3059382,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 3059382
+  },
+  {
+    "player_id": 176,
+    "player_name": "Glen Wood",
+    "player_value": 1644108,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1644108
+  },
+  {
+    "player_id": 177,
+    "player_name": "Paula Bradley",
+    "player_value": 1870952,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1870952
+  },
+  {
+    "player_id": 178,
+    "player_name": "Anthony Moore",
+    "player_value": 1551379,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1551379
+  },
+  {
+    "player_id": 179,
+    "player_name": "Megan Nelson",
+    "player_value": 3130350,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 3130350
+  },
+  {
+    "player_id": 180,
+    "player_name": "Karla Ramos",
+    "player_value": 3032177,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 3032177
+  },
+  {
+    "player_id": 181,
+    "player_name": "Paul Wilson",
+    "player_value": 1880038,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1880038
+  },
+  {
+    "player_id": 182,
+    "player_name": "Douglas Gregory",
+    "player_value": 2575965,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 2575965
+  },
+  {
+    "player_id": 183,
+    "player_name": "Mr. Andrew Foster",
+    "player_value": 3572144,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3572144
+  },
+  {
+    "player_id": 184,
+    "player_name": "Aimee Turner",
+    "player_value": 2290621,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2290621
+  },
+  {
+    "player_id": 185,
+    "player_name": "Chad Scott",
+    "player_value": 2440876,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2440876
+  },
+  {
+    "player_id": 186,
+    "player_name": "Adam Burgess",
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "player_value": 1308938,
+    "value": 1308938
+  },
+  {
+    "player_id": 187,
+    "player_name": "James Padilla",
+    "player_value": 1531126,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1531126
+  },
+  {
+    "player_id": 188,
+    "player_name": "Sandra Drake",
+    "player_value": 4416594,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 4416594
+  },
+  {
+    "player_id": 189,
+    "player_name": "Scott Williams",
+    "player_value": 2234359,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2234359
+  },
+  {
+    "player_id": 190,
+    "player_name": "Thomas Atkins",
+    "player_value": 1030711,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1030711
+  },
+  {
+    "player_id": 191,
+    "player_name": "Laura Mckinney",
+    "player_value": 3701940,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3701940
+  },
+  {
+    "player_id": 192,
+    "player_name": "Brian Smith",
+    "player_value": 3300504,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 3300504
+  },
+  {
+    "player_id": 193,
+    "player_name": "Robert Montgomery",
+    "player_value": 2847586,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2847586
+  },
+  {
+    "player_id": 194,
+    "player_name": "Tamara Davis",
+    "player_value": 3008170,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 3008170
+  },
+  {
+    "player_id": 195,
+    "player_name": "Dana Chapman",
+    "player_value": 2144748,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2144748
+  },
+  {
+    "player_id": 196,
+    "player_name": "Jennifer Collins",
+    "player_value": 2437001,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2437001
+  },
+  {
+    "player_id": 197,
+    "player_name": "Gary Jackson",
+    "player_value": 2046171,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2046171
+  },
+  {
+    "player_id": 198,
+    "player_name": "Ashley Hicks",
+    "player_value": 2991122,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2991122
+  },
+  {
+    "player_id": 199,
+    "player_name": "Hannah Luna",
+    "player_value": 3589793,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3589793
+  },
+  {
+    "player_id": 200,
+    "player_name": "Robin Young",
+    "player_value": 2158550,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2158550
+  },
+  {
+    "player_id": 201,
+    "player_name": "Craig Morrison",
+    "player_value": 1394348,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1394348
+  },
+  {
+    "player_id": 202,
+    "player_name": "Mary Thompson",
+    "player_value": 1923889,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1923889
+  },
+  {
+    "player_id": 203,
+    "player_name": "Kathleen Webster",
+    "player_value": 3730932,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 3730932
+  },
+  {
+    "player_id": 204,
+    "player_name": "Joann Glass",
+    "player_value": 3895261,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 3895261
+  },
+  {
+    "player_id": 205,
+    "player_name": "Madison Weber",
+    "player_value": 2483633,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2483633
+  },
+  {
+    "player_id": 206,
+    "player_name": "Lori Hernandez",
+    "player_value": 1535828,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1535828
+  },
+  {
+    "player_id": 207,
+    "player_name": "Jeremy Turner",
+    "player_value": 3743317,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 3743317
+  },
+  {
+    "player_id": 208,
+    "player_name": "Anthony Romero",
+    "player_value": 3684062,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3684062
+  },
+  {
+    "player_id": 209,
+    "player_name": "Jesse Brown",
+    "player_value": 4999520,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 4999520
+  },
+  {
+    "player_id": 210,
+    "player_name": "Angela Lin",
+    "player_value": 912115,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 912115
+  },
+  {
+    "player_id": 211,
+    "player_name": "Lisa Hunter",
+    "player_value": 1320092,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1320092
+  },
+  {
+    "player_id": 212,
+    "player_name": "Julian Conner",
+    "player_value": 2275720,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2275720
+  },
+  {
+    "player_id": 213,
+    "player_name": "Joanna Pacheco",
+    "player_value": 1147465,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1147465
+  },
+  {
+    "player_id": 214,
+    "player_name": "Erica Alvarez",
+    "player_value": 2524729,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 2524729
+  },
+  {
+    "player_id": 215,
+    "player_name": "Antonio Garcia",
+    "player_value": 1230668,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 1230668
+  },
+  {
+    "player_id": 216,
+    "player_name": "Gwendolyn Klein",
+    "player_value": 2207071,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2207071
+  },
+  {
+    "player_id": 217,
+    "player_name": "Carrie Wright",
+    "player_value": 4029893,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 4029893
+  },
+  {
+    "player_id": 218,
+    "player_name": "Jeffrey Mills",
+    "player_value": 2835151,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2835151
+  },
+  {
+    "player_id": 219,
+    "player_name": "Jake Campbell",
+    "player_value": 1794522,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1794522
+  },
+  {
+    "player_id": 220,
+    "player_name": "George Harper",
+    "player_value": 1345796,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1345796
+  },
+  {
+    "player_id": 221,
+    "player_name": "Maria Jones",
+    "player_value": 4678549,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 4678549
+  },
+  {
+    "player_id": 222,
+    "player_name": "Michael Mitchell",
+    "player_value": 2599037,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2599037
+  },
+  {
+    "player_id": 223,
+    "player_name": "Mary Escobar",
+    "player_value": 2359662,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2359662
+  },
+  {
+    "player_id": 224,
+    "player_name": "Felicia Aguilar",
+    "player_value": 2614264,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 2614264
+  },
+  {
+    "player_id": 225,
+    "player_name": "Gregory Ponce",
+    "player_value": 3650462,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 3650462
+  },
+  {
+    "player_id": 226,
+    "player_name": "Jenna Larson",
+    "player_value": 1426582,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1426582
+  },
+  {
+    "player_id": 227,
+    "player_name": "Emily Bennett",
+    "player_value": 4710469,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 4710469
+  },
+  {
+    "player_id": 228,
+    "player_name": "Robin Santiago",
+    "player_value": 1097968,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1097968
+  },
+  {
+    "player_id": 229,
+    "player_name": "Nancy Jennings",
+    "player_value": 1685451,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1685451
+  },
+  {
+    "player_id": 230,
+    "player_name": "Maria Henderson",
+    "player_value": 891482,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 891482
+  },
+  {
+    "player_id": 231,
+    "player_name": "Jack White",
+    "player_value": 1634234,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1634234
+  },
+  {
+    "player_id": 232,
+    "player_name": "Travis Tucker",
+    "player_value": 3958368,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 3958368
+  },
+  {
+    "player_id": 233,
+    "player_name": "Chad Jones",
+    "player_value": 1841530,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1841530
+  },
+  {
+    "player_id": 234,
+    "player_name": "Ashley Wise",
+    "player_value": 4144722,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 4144722
+  },
+  {
+    "player_id": 235,
+    "player_name": "Sophia Johnson",
+    "player_value": 2138509,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2138509
+  },
+  {
+    "player_id": 236,
+    "player_name": "Ralph Anderson",
+    "player_value": 1717819,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1717819
+  },
+  {
+    "player_id": 237,
+    "player_name": "Christopher Guerra",
+    "player_value": 2538149,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 2538149
+  },
+  {
+    "player_id": 238,
+    "player_name": "Rhonda Martin",
+    "player_value": 1115323,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1115323
+  },
+  {
+    "player_id": 239,
+    "player_name": "Jason Rhodes",
+    "player_value": 2475671,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 2475671
+  },
+  {
+    "player_id": 240,
+    "player_name": "Jeremy Mitchell",
+    "player_value": 1509674,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1509674
+  },
+  {
+    "player_id": 241,
+    "player_name": "Joann Ferguson",
+    "player_value": 2523876,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 2523876
+  },
+  {
+    "player_id": 242,
+    "player_name": "Robert Harrison",
+    "player_value": 1460547,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1460547
+  },
+  {
+    "player_id": 243,
+    "player_name": "Holly Valentine",
+    "player_value": 2889998,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2889998
+  },
+  {
+    "player_id": 244,
+    "player_name": "Mrs. Diane Reyes",
+    "player_value": 1496843,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1496843
+  },
+  {
+    "player_id": 245,
+    "player_name": "Tracy Montoya",
+    "player_value": 3517119,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 3517119
+  },
+  {
+    "player_id": 246,
+    "player_name": "Brenda Wright",
+    "player_value": 3396107,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 3396107
+  },
+  {
+    "player_id": 247,
+    "player_name": "Shelly Spencer",
+    "player_value": 3303281,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 3303281
+  },
+  {
+    "player_id": 248,
+    "player_name": "Ryan Rosales",
+    "player_value": 1739461,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1739461
+  },
+  {
+    "player_id": 249,
+    "player_name": "Phillip Nelson",
+    "player_value": 1462767,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1462767
+  },
+  {
+    "player_id": 250,
+    "player_name": "Brittany Kim",
+    "player_value": 2999353,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2999353
+  },
+  {
+    "player_id": 251,
+    "player_name": "Courtney Hayes",
+    "player_value": 1238588,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 1238588
+  },
+  {
+    "player_id": 252,
+    "player_name": "Alexander Brown",
+    "player_value": 1875413,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1875413
+  },
+  {
+    "player_id": 253,
+    "player_name": "Cynthia Vang",
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "listed_by_user_id": "mgkv3m7xj",
+    "player_value": 1108769,
+    "value": 1108769
+  },
+  {
+    "player_id": 254,
+    "player_name": "Alfred Galvan",
+    "player_value": 1106461,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 1106461
+  },
+  {
+    "player_id": 255,
+    "player_name": "Marie Moody",
+    "player_value": 1442630,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1442630
+  },
+  {
+    "player_id": 256,
+    "player_name": "Dustin Gallegos",
+    "player_value": 1890627,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1890627
+  },
+  {
+    "player_id": 257,
+    "player_name": "Brenda Thornton",
+    "player_value": 1584440,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1584440
+  },
+  {
+    "player_id": 258,
+    "player_name": "Aaron Miller",
+    "player_value": 2170359,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 2170359
+  },
+  {
+    "player_id": 259,
+    "player_name": "Ruben Dunn",
+    "player_value": 3453796,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 3453796
+  },
+  {
+    "player_id": 260,
+    "player_name": "Kelsey Rodriguez",
+    "player_value": 1343083,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1343083
+  },
+  {
+    "player_id": 261,
+    "player_name": "Eric Williams",
+    "player_value": 1703944,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1703944
+  },
+  {
+    "player_id": 262,
+    "player_name": "Riley Bryant",
+    "player_value": 1971570,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1971570
+  },
+  {
+    "player_id": 263,
+    "player_name": "Taylor Carlson",
+    "player_value": 1844485,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1844485
+  },
+  {
+    "player_id": 264,
+    "player_name": "Jose Allen",
+    "player_value": 3344938,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 3344938
+  },
+  {
+    "player_id": 265,
+    "player_name": "Jeffrey Mendez",
+    "player_value": 4946022,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 4946022
+  },
+  {
+    "player_id": 266,
+    "player_name": "Jason Beck",
+    "player_value": 2925324,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "b2zz7ga3v",
+    "value": 2925324
+  },
+  {
+    "player_id": 267,
+    "player_name": "William Jones",
+    "player_value": 1911259,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1911259
+  },
+  {
+    "player_id": 268,
+    "player_name": "Katie Mcneil",
+    "player_value": 1598308,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 1598308
+  },
+  {
+    "player_id": 269,
+    "player_name": "Jeanette Harrison",
+    "player_value": 3868051,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 3868051
+  },
+  {
+    "player_id": 270,
+    "player_name": "Veronica King",
+    "player_value": 3597038,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 3597038
+  },
+  {
+    "player_id": 271,
+    "player_name": "Richard Cooper",
+    "player_value": 1003285,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1003285
+  },
+  {
+    "player_id": 272,
+    "player_name": "Lori Ingram",
+    "player_value": 1255371,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1255371
+  },
+  {
+    "player_id": 273,
+    "player_name": "Evelyn Williams",
+    "player_value": 1102842,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1102842
+  },
+  {
+    "player_id": 274,
+    "player_name": "Robin Thompson",
+    "player_value": 2965681,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2965681
+  },
+  {
+    "player_id": 275,
+    "player_name": "Julie Dominguez",
+    "player_value": 1844391,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1844391
+  },
+  {
+    "player_id": 276,
+    "player_name": "Robin Brown",
+    "player_value": 1034529,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1034529
+  },
+  {
+    "player_id": 277,
+    "player_name": "Judith Carter",
+    "player_value": 3276937,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 3276937
+  },
+  {
+    "player_id": 278,
+    "player_name": "Curtis Williams",
+    "player_value": 4506361,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 4506361
+  },
+  {
+    "player_id": 279,
+    "player_name": "Kaylee Hays",
+    "player_value": 2379146,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2379146
+  },
+  {
+    "player_id": 280,
+    "player_name": "Dawn Mullins",
+    "player_value": 2675296,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2675296
+  },
+  {
+    "player_id": 281,
+    "player_name": "Howard Norman",
+    "player_value": 2580546,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2580546
+  },
+  {
+    "player_id": 282,
+    "player_name": "Evelyn Martinez",
+    "player_value": 1522791,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1522791
+  },
+  {
+    "player_id": 283,
+    "player_name": "Steve Paul",
+    "player_value": 1016721,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1016721
+  },
+  {
+    "player_id": 284,
+    "player_name": "Jasmine Beltran",
+    "player_value": 2195216,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2195216
+  },
+  {
+    "player_id": 285,
+    "player_name": "Jonathan Glass MD",
+    "player_value": 4239897,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 4239897
+  },
+  {
+    "player_id": 286,
+    "player_name": "Monica Miller",
+    "player_value": 1763367,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1763367
+  },
+  {
+    "player_id": 287,
+    "player_name": "Samantha Gardner",
+    "player_value": 909627,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 909627
+  },
+  {
+    "player_id": 288,
+    "player_name": "Bobby Guerrero",
+    "player_value": 2456914,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2456914
+  },
+  {
+    "player_id": 289,
+    "player_name": "Lance Simmons",
+    "player_value": 1161190,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1161190
+  },
+  {
+    "player_id": 290,
+    "player_name": "Heather Williams",
+    "player_value": 1531759,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1531759
+  },
+  {
+    "player_id": 291,
+    "player_name": "Heather Bolton",
+    "player_value": 2458065,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2458065
+  },
+  {
+    "player_id": 292,
+    "player_name": "William Gould",
+    "player_value": 1979981,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1979981
+  },
+  {
+    "player_id": 293,
+    "player_name": "Mark Cox",
+    "player_value": 2780245,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2780245
+  },
+  {
+    "player_id": 294,
+    "player_name": "Meghan Cisneros",
+    "player_value": 2325571,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2325571
+  },
+  {
+    "player_id": 295,
+    "player_name": "Lawrence Harrington",
+    "player_value": 1383423,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1383423
+  },
+  {
+    "player_id": 296,
+    "player_name": "Austin Osborne",
+    "player_value": 1977483,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1977483
+  },
+  {
+    "player_id": 297,
+    "player_name": "James Bradley",
+    "player_value": 4541809,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 4541809
+  },
+  {
+    "player_id": 298,
+    "player_name": "Meghan Rush",
+    "player_value": 1719038,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1719038
+  },
+  {
+    "player_id": 299,
+    "player_name": "Phillip Berry",
+    "player_value": 2203761,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 2203761
+  },
+  {
+    "player_id": 300,
+    "player_name": "Jennifer Banks",
+    "player_value": 1009341,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1009341
+  },
+  {
+    "player_id": 301,
+    "player_name": "Brian Fitzgerald",
+    "player_value": 1253603,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1253603
+  },
+  {
+    "player_id": 302,
+    "player_name": "Mr. Justin Green III",
+    "player_value": 1974196,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1974196
+  },
+  {
+    "player_id": 303,
+    "player_name": "Zachary Mitchell",
+    "player_value": 1532057,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1532057
+  },
+  {
+    "player_id": 304,
+    "player_name": "Katherine Martinez",
+    "player_value": 1671364,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1671364
+  },
+  {
+    "player_id": 305,
+    "player_name": "Jodi Roach",
+    "player_value": 4094663,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 4094663
+  },
+  {
+    "player_id": 306,
+    "player_name": "Brandon Fleming",
+    "player_value": 1844408,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 1844408
+  },
+  {
+    "player_id": 307,
+    "player_name": "Emma Reed",
+    "player_value": 1082239,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1082239
+  },
+  {
+    "player_id": 308,
+    "player_name": "Joshua Vance",
+    "player_value": 2233785,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 2233785
+  },
+  {
+    "player_id": 309,
+    "player_name": "Michelle Ho",
+    "player_value": 2441010,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2441010
+  },
+  {
+    "player_id": 310,
+    "player_name": "Rebecca Hicks",
+    "player_value": 1702696,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1702696
+  },
+  {
+    "player_id": 311,
+    "player_name": "Curtis Taylor",
+    "player_value": 3155832,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 3155832
+  },
+  {
+    "player_id": 312,
+    "player_name": "Allison Spencer",
+    "player_value": 1340234,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1340234
+  },
+  {
+    "player_id": 313,
+    "player_name": "Robert Arnold",
+    "player_value": 2439001,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2439001
+  },
+  {
+    "player_id": 314,
+    "player_name": "Angelica Parker",
+    "player_value": 1937436,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1937436
+  },
+  {
+    "player_id": 315,
+    "player_name": "Dr. Kelly Hammond DVM",
+    "player_value": 2187019,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 2187019
+  },
+  {
+    "player_id": 316,
+    "player_name": "William Day",
+    "player_value": 2284712,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2284712
+  },
+  {
+    "player_id": 317,
+    "player_name": "Michael Cooper",
+    "player_value": 4506396,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 4506396
+  },
+  {
+    "player_id": 318,
+    "player_name": "Penny Bowman",
+    "player_value": 1395019,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1395019
+  },
+  {
+    "player_id": 319,
+    "player_name": "Vincent Reynolds",
+    "player_value": 4023618,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 4023618
+  },
+  {
+    "player_id": 320,
+    "player_name": "Amy Martinez",
+    "player_value": 2197218,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2197218
+  },
+  {
+    "player_id": 321,
+    "player_name": "Christopher Morris",
+    "player_value": 3861034,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3861034
+  },
+  {
+    "player_id": 322,
+    "player_name": "Hannah Everett",
+    "player_value": 1589646,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1589646
+  },
+  {
+    "player_id": 323,
+    "player_name": "Sarah King",
+    "player_value": 2222581,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2222581
+  },
+  {
+    "player_id": 324,
+    "player_name": "Krista Martinez",
+    "player_value": 3336678,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3336678
+  },
+  {
+    "player_id": 325,
+    "player_name": "Joseph Shaw",
+    "player_value": 1104915,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1104915
+  },
+  {
+    "player_id": 326,
+    "player_name": "Todd Moore",
+    "player_value": 1546176,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1546176
+  },
+  {
+    "player_id": 327,
+    "player_name": "Michelle Jacobs",
+    "player_value": 2335556,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2335556
+  },
+  {
+    "player_id": 328,
+    "player_name": "Kristy Bryan",
+    "player_value": 1529119,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1529119
+  },
+  {
+    "player_id": 329,
+    "player_name": "Angel May",
+    "player_value": 3056486,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 3056486
+  },
+  {
+    "player_id": 330,
+    "player_name": "Marilyn Wang",
+    "player_value": 3038618,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 3038618
+  },
+  {
+    "player_id": 331,
+    "player_name": "Mark Jimenez",
+    "player_value": 3868452,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 3868452
+  },
+  {
+    "player_id": 332,
+    "player_name": "Donna Frye",
+    "player_value": 1378680,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1378680
+  },
+  {
+    "player_id": 333,
+    "player_name": "Dr. Michael Evans",
+    "player_value": 903732,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 903732
+  },
+  {
+    "player_id": 334,
+    "player_name": "Anthony Gonzales",
+    "player_value": 1898992,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1898992
+  },
+  {
+    "player_id": 335,
+    "player_name": "Mr. Lawrence Edwards",
+    "player_value": 3471305,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3471305
+  },
+  {
+    "player_id": 336,
+    "player_name": "Morgan Valencia",
+    "player_value": 2884846,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2884846
+  },
+  {
+    "player_id": 337,
+    "player_name": "Bianca Wood",
+    "player_value": 879838,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 879838
+  },
+  {
+    "player_id": 338,
+    "player_name": "Emma Owens",
+    "player_value": 4296154,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 4296154
+  },
+  {
+    "player_id": 339,
+    "player_name": "James Gilbert",
+    "player_value": 1279917,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1279917
+  },
+  {
+    "player_id": 340,
+    "player_name": "Sean Moore",
+    "player_value": 1645486,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 1645486
+  },
+  {
+    "player_id": 341,
+    "player_name": "Kenneth Edwards",
+    "player_value": 3199521,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 3199521
+  },
+  {
+    "player_id": 342,
+    "player_name": "Kathleen Robertson",
+    "player_value": 885929,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 885929
+  },
+  {
+    "player_id": 343,
+    "player_name": "Mr. Alexander Landry MD",
+    "player_value": 1150760,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1150760
+  },
+  {
+    "player_id": 344,
+    "player_name": "Cindy Gomez",
+    "player_value": 1866767,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 1866767
+  },
+  {
+    "player_id": 345,
+    "player_name": "Johnny Khan",
+    "player_value": 3976079,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 3976079
+  },
+  {
+    "player_id": 346,
+    "player_name": "Julie Herrera",
+    "player_value": 1716329,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "b2zz7ga3v",
+    "value": 1716329
+  },
+  {
+    "player_id": 347,
+    "player_name": "Jessica Khan",
+    "player_value": 2119535,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 2119535
+  },
+  {
+    "player_id": 348,
+    "player_name": "Pamela Diaz",
+    "player_value": 1722154,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1722154
+  },
+  {
+    "player_id": 349,
+    "player_name": "Kelly Lee",
+    "player_value": 1301641,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1301641
+  },
+  {
+    "player_id": 350,
+    "player_name": "Angel Gordon",
+    "player_value": 1103313,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1103313
+  },
+  {
+    "player_id": 351,
+    "player_name": "Diana Hays",
+    "player_value": 1958957,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1958957
+  },
+  {
+    "player_id": 352,
+    "player_name": "Barbara Hester",
+    "player_value": 3496434,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 3496434
+  },
+  {
+    "player_id": 353,
+    "player_name": "Robert Morgan",
+    "player_value": 1081513,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1081513
+  },
+  {
+    "player_id": 354,
+    "player_name": "Nicole Gonzalez",
+    "player_value": 4501873,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 4501873
+  },
+  {
+    "player_id": 355,
+    "player_name": "Kathryn Williams",
+    "player_value": 2343901,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2343901
+  },
+  {
+    "player_id": 356,
+    "player_name": "Gary Wells",
+    "player_value": 1087076,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1087076
+  },
+  {
+    "player_id": 357,
+    "player_name": "Larry Robertson",
+    "player_value": 1899086,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 1899086
+  },
+  {
+    "player_id": 358,
+    "player_name": "Louis Martin",
+    "player_value": 2452665,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2452665
+  },
+  {
+    "player_id": 359,
+    "player_name": "Nancy Evans MD",
+    "player_value": 2216021,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2216021
+  },
+  {
+    "player_id": 360,
+    "player_name": "Kim Erickson",
+    "player_value": 1989046,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1989046
+  },
+  {
+    "player_id": 361,
+    "player_name": "Robert Richardson",
+    "player_value": 2730496,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2730496
+  },
+  {
+    "player_id": 362,
+    "player_name": "Veronica Silva",
+    "player_value": 1142484,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 1142484
+  },
+  {
+    "player_id": 363,
+    "player_name": "Molly Watts",
+    "player_value": 1560925,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1560925
+  },
+  {
+    "player_id": 364,
+    "player_name": "John Coffey",
+    "player_value": 2039864,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2039864
+  },
+  {
+    "player_id": 365,
+    "player_name": "Paula Lane",
+    "player_value": 2365009,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2365009
+  },
+  {
+    "player_id": 366,
+    "player_name": "Lauren Jackson",
+    "player_value": 2633557,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2633557
+  },
+  {
+    "player_id": 367,
+    "player_name": "Lisa Randall",
+    "player_value": 2562619,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2562619
+  },
+  {
+    "player_id": 368,
+    "player_name": "Michael Johnson",
+    "player_value": 3837895,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 3837895
+  },
+  {
+    "player_id": 369,
+    "player_name": "Ashley Smith",
+    "player_value": 2765270,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2765270
+  },
+  {
+    "player_id": 370,
+    "player_name": "Christian Vaughn",
+    "player_value": 2039199,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 2039199
+  },
+  {
+    "player_id": 371,
+    "player_name": "Reginald Knapp",
+    "player_value": 4231465,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 4231465
+  },
+  {
+    "player_id": 372,
+    "player_name": "Nancy Brown",
+    "player_value": 3282098,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 3282098
+  },
+  {
+    "player_id": 373,
+    "player_name": "Daniel Nguyen",
+    "player_value": 1412654,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1412654
+  },
+  {
+    "player_id": 374,
+    "player_name": "Kelly Edwards",
+    "player_value": 4413446,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 4413446
+  },
+  {
+    "player_id": 375,
+    "player_name": "Thomas Peterson",
+    "player_value": 2296491,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2296491
+  },
+  {
+    "player_id": 376,
+    "player_name": "Raymond Le",
+    "player_value": 1072610,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1072610
+  },
+  {
+    "player_id": 377,
+    "player_name": "Melissa Bishop",
+    "player_value": 1519292,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1519292
+  },
+  {
+    "player_id": 378,
+    "player_name": "David Grant",
+    "player_value": 3104034,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 3104034
+  },
+  {
+    "player_id": 379,
+    "player_name": "William Evans",
+    "player_value": 4181927,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 4181927
+  },
+  {
+    "player_id": 380,
+    "player_name": "Daniel Bush",
+    "player_value": 1486272,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1486272
+  },
+  {
+    "player_id": 381,
+    "player_name": "Gregory Peck",
+    "player_value": 3580048,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 3580048
+  },
+  {
+    "player_id": 382,
+    "player_name": "Denise Martinez",
+    "player_value": 1449597,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1449597
+  },
+  {
+    "player_id": 383,
+    "player_name": "Jamie Baird",
+    "player_value": 2569796,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 2569796
+  },
+  {
+    "player_id": 384,
+    "player_name": "Tina Ballard",
+    "player_value": 4495120,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 4495120
+  },
+  {
+    "player_id": 385,
+    "player_name": "Dwayne Klein",
+    "player_value": 2259032,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2259032
+  },
+  {
+    "player_id": 386,
+    "player_name": "Jeremy Scott",
+    "player_value": 4521968,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 4521968
+  },
+  {
+    "player_id": 387,
+    "player_name": "Dale Ryan",
+    "player_value": 2741601,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2741601
+  },
+  {
+    "player_id": 388,
+    "player_name": "Melissa Taylor",
+    "player_value": 4462244,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 4462244
+  },
+  {
+    "player_id": 389,
+    "player_name": "Laurie Sanchez",
+    "player_value": 1824015,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1824015
+  },
+  {
+    "player_id": 390,
+    "player_name": "Kiara Little",
+    "player_value": 1072808,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1072808
+  },
+  {
+    "player_id": 391,
+    "player_name": "Jason Love",
+    "player_value": 1634371,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1634371
+  },
+  {
+    "player_id": 392,
+    "player_name": "Randy Smith",
+    "player_value": 4395176,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 4395176
+  },
+  {
+    "player_id": 393,
+    "player_name": "Tanya Russell",
+    "player_value": 2373179,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2373179
+  },
+  {
+    "player_id": 394,
+    "player_name": "Sherry Woods",
+    "player_value": 1763997,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 1763997
+  },
+  {
+    "player_id": 395,
+    "player_name": "Victor Morris",
+    "player_value": 2130770,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2130770
+  },
+  {
+    "player_id": 396,
+    "player_name": "Susan Davis",
+    "player_value": 1020289,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1020289
+  },
+  {
+    "player_id": 397,
+    "player_name": "Kimberly Sharp",
+    "player_value": 2460094,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2460094
+  },
+  {
+    "player_id": 398,
+    "player_name": "Susan Thompson",
+    "player_value": 1852622,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1852622
+  },
+  {
+    "player_id": 399,
+    "player_name": "Casey Gillespie",
+    "player_value": 4358112,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 4358112
+  },
+  {
+    "player_id": 400,
+    "player_name": "Jennifer Simpson DVM",
+    "player_value": 3634649,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 3634649
+  },
+  {
+    "player_id": 401,
+    "player_name": "Tammy Mcdowell",
+    "player_value": 1866075,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1866075
+  },
+  {
+    "player_id": 402,
+    "player_name": "Keith Rodriguez",
+    "player_value": 1331292,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1331292
+  },
+  {
+    "player_id": 403,
+    "player_name": "Mrs. Virginia Daniels",
+    "player_value": 1860749,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1860749
+  },
+  {
+    "player_id": 404,
+    "player_name": "Todd Rosales MD",
+    "player_value": 1864213,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1864213
+  },
+  {
+    "player_id": 405,
+    "player_name": "Brian Martin",
+    "player_value": 2884534,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2884534
+  },
+  {
+    "player_id": 406,
+    "player_name": "David Lopez",
+    "player_value": 1052499,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 1052499
+  },
+  {
+    "player_id": 407,
+    "player_name": "Rachel Bradley",
+    "player_value": 1308039,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1308039
+  },
+  {
+    "player_id": 408,
+    "player_name": "Casey Chase",
+    "player_value": 1247029,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 1247029
+  },
+  {
+    "player_id": 409,
+    "player_name": "Samantha Robertson",
+    "player_value": 3767607,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 3767607
+  },
+  {
+    "player_id": 410,
+    "player_name": "Michael Lopez",
+    "player_value": 2747307,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2747307
+  },
+  {
+    "player_id": 411,
+    "player_name": "Franklin Wright",
+    "player_value": 2033512,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_17",
+    "value": 2033512
+  },
+  {
+    "player_id": 412,
+    "player_name": "David Molina",
+    "player_value": 2100656,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2100656
+  },
+  {
+    "player_id": 413,
+    "player_name": "Elizabeth Sharp",
+    "player_value": 4701115,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 4701115
+  },
+  {
+    "player_id": 414,
+    "player_name": "Matthew Schwartz",
+    "player_value": 2056006,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 2056006
+  },
+  {
+    "player_id": 415,
+    "player_name": "Bryan Parker",
+    "player_value": 1525943,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1525943
+  },
+  {
+    "player_id": 416,
+    "player_name": "Jonathan Jacobson",
+    "player_value": 1062004,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1062004
+  },
+  {
+    "player_id": 417,
+    "player_name": "Emily Wilson",
+    "player_value": 1888612,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1888612
+  },
+  {
+    "player_id": 418,
+    "player_name": "Elizabeth Mendez",
+    "player_value": 1162059,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1162059
+  },
+  {
+    "player_id": 419,
+    "player_name": "Casey Hernandez",
+    "player_value": 2547376,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 2547376
+  },
+  {
+    "player_id": 420,
+    "player_name": "Lisa Perry",
+    "player_value": 3658750,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 3658750
+  },
+  {
+    "player_id": 421,
+    "player_name": "Kaitlin Medina",
+    "player_value": 880084,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 880084
+  },
+  {
+    "player_id": 422,
+    "player_name": "Colleen Wright",
+    "player_value": 4852491,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 4852491
+  },
+  {
+    "player_id": 423,
+    "player_name": "Shelley Miller",
+    "player_value": 1618380,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1618380
+  },
+  {
+    "player_id": 424,
+    "player_name": "Michael Miller",
+    "player_value": 1087285,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 1087285
+  },
+  {
+    "player_id": 425,
+    "player_name": "Amy Kelley",
+    "player_value": 3565858,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 3565858
+  },
+  {
+    "player_id": 426,
+    "player_name": "Laura Hernandez",
+    "player_value": 2276903,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_7",
+    "value": 2276903
+  },
+  {
+    "player_id": 427,
+    "player_name": "Joseph Wilson",
+    "player_value": 1613511,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1613511
+  },
+  {
+    "player_id": 428,
+    "player_name": "Kevin Davis",
+    "player_value": 1718886,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1718886
+  },
+  {
+    "player_id": 429,
+    "player_name": "Rhonda Chavez",
+    "player_value": 2308732,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2308732
+  },
+  {
+    "player_id": 430,
+    "player_name": "Joyce Brown",
+    "player_value": 1665873,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 1665873
+  },
+  {
+    "player_id": 431,
+    "player_name": "Robert Cummings",
+    "player_value": 2881998,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_3",
+    "value": 2881998
+  },
+  {
+    "player_id": 432,
+    "player_name": "Robert Reese",
+    "player_value": 1573745,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 1573745
+  },
+  {
+    "player_id": 433,
+    "player_name": "Amber Cooper",
+    "player_value": 1524272,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1524272
+  },
+  {
+    "player_id": 434,
+    "player_name": "Zachary Michael",
+    "player_value": 3780448,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 3780448
+  },
+  {
+    "player_id": 435,
+    "player_name": "Timothy Johnson",
+    "player_value": 3095638,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 3095638
+  },
+  {
+    "player_id": 436,
+    "player_name": "Randy Cannon",
+    "player_value": 1902891,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1902891
+  },
+  {
+    "player_id": 437,
+    "player_name": "Maria Fisher",
+    "player_value": 1457162,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 1457162
+  },
+  {
+    "player_id": 438,
+    "player_name": "Janet Kane DVM",
+    "player_value": 2507567,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 2507567
+  },
+  {
+    "player_id": 439,
+    "player_name": "Michael Stanley",
+    "player_value": 2038848,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2038848
+  },
+  {
+    "player_id": 440,
+    "player_name": "Martha Bailey",
+    "player_value": 4174317,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 4174317
+  },
+  {
+    "player_id": 441,
+    "player_name": "Joshua Rice",
+    "player_value": 2274092,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2274092
+  },
+  {
+    "player_id": 442,
+    "player_name": "Courtney Smith",
+    "player_value": 4063209,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 4063209
+  },
+  {
+    "player_id": 443,
+    "player_name": "Edwin Nunez",
+    "player_value": 1195522,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_19",
+    "value": 1195522
+  },
+  {
+    "player_id": 444,
+    "player_name": "Kim Morrow",
+    "player_value": 1915796,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1915796
+  },
+  {
+    "player_id": 445,
+    "player_name": "Gregory Hill",
+    "player_value": 1977993,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1977993
+  },
+  {
+    "player_id": 446,
+    "player_name": "Molly Rodriguez",
+    "player_value": 2691514,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2691514
+  },
+  {
+    "player_id": 447,
+    "player_name": "Jennifer Miranda",
+    "player_value": 2943968,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 2943968
+  },
+  {
+    "player_id": 448,
+    "player_name": "Alexis Harris",
+    "player_value": 1235427,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 1235427
+  },
+  {
+    "player_id": 449,
+    "player_name": "Andrew Harper",
+    "player_value": 2428455,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2428455
+  },
+  {
+    "player_id": 450,
+    "player_name": "Amber Yang",
+    "player_value": 1152245,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 1152245
+  },
+  {
+    "player_id": 451,
+    "player_name": "David Robinson",
+    "player_value": 1291063,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 1291063
+  },
+  {
+    "player_id": 452,
+    "player_name": "Amy Gordon",
+    "player_value": 2127005,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 2127005
+  },
+  {
+    "player_id": 453,
+    "player_name": "Robert Dennis",
+    "player_value": 4367979,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 4367979
+  },
+  {
+    "player_id": 454,
+    "player_name": "Kyle Chambers",
+    "player_value": 2090637,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_14",
+    "value": 2090637
+  },
+  {
+    "player_id": 455,
+    "player_name": "Eric Thomas",
+    "player_value": 2695139,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2695139
+  },
+  {
+    "player_id": 456,
+    "player_name": "Connie Turner",
+    "player_value": 1572156,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1572156
+  },
+  {
+    "player_id": 457,
+    "player_name": "Travis Hobbs",
+    "player_value": 2679727,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 2679727
+  },
+  {
+    "player_id": 458,
+    "player_name": "Lori Simmons",
+    "player_value": 3328588,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 3328588
+  },
+  {
+    "player_id": 459,
+    "player_name": "William David DDS",
+    "player_value": 1855945,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 1855945
+  },
+  {
+    "player_id": 460,
+    "player_name": "Emma Butler",
+    "player_value": 2907086,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_20",
+    "value": 2907086
+  },
+  {
+    "player_id": 461,
+    "player_name": "James Webster",
+    "player_value": 2418650,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2418650
+  },
+  {
+    "player_id": 462,
+    "player_name": "Samuel Turner",
+    "player_value": 2455409,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 2455409
+  },
+  {
+    "player_id": 463,
+    "player_name": "Renee Melendez",
+    "player_value": 1893053,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1893053
+  },
+  {
+    "player_id": 464,
+    "player_name": "Tracy Grant",
+    "player_value": 1530000,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1530000
+  },
+  {
+    "player_id": 465,
+    "player_name": "David Harris",
+    "player_value": 1333044,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 1333044
+  },
+  {
+    "player_id": 466,
+    "player_name": "Tammy Boone",
+    "player_value": 2099072,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 2099072
+  },
+  {
+    "player_id": 467,
+    "player_name": "Nathaniel Lee",
+    "player_value": 1904176,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 1904176
+  },
+  {
+    "player_id": 468,
+    "player_name": "Michael Morrison",
+    "player_value": 1324012,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_6",
+    "value": 1324012
+  },
+  {
+    "player_id": 469,
+    "player_name": "Chelsea Gill",
+    "player_value": 2215788,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 2215788
+  },
+  {
+    "player_id": 470,
+    "player_name": "Kristin Mendoza",
+    "player_value": 1753718,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 1753718
+  },
+  {
+    "player_id": 471,
+    "player_name": "Felicia Krueger",
+    "player_value": 2630373,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 2630373
+  },
+  {
+    "player_id": 472,
+    "player_name": "Timothy Hayden",
+    "player_value": 877110,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 877110
+  },
+  {
+    "player_id": 473,
+    "player_name": "Zachary Mendoza",
+    "player_value": 3701643,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 3701643
+  },
+  {
+    "player_id": 474,
+    "player_name": "Larry Harris",
+    "player_value": 4201813,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 4201813
+  },
+  {
+    "player_id": 475,
+    "player_name": "Kristen Rowe",
+    "player_value": 1037993,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 1037993
+  },
+  {
+    "player_id": 476,
+    "player_name": "Joseph Howard",
+    "player_value": 1857819,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 1857819
+  },
+  {
+    "player_id": 477,
+    "player_name": "Jose Crawford",
+    "player_value": 4120829,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_2",
+    "value": 4120829
+  },
+  {
+    "player_id": 478,
+    "player_name": "William Harrison",
+    "player_value": 1383477,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_11",
+    "value": 1383477
+  },
+  {
+    "player_id": 479,
+    "player_name": "Suzanne Wood",
+    "player_value": 3154328,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 3154328
+  },
+  {
+    "player_id": 480,
+    "player_name": "Justin Walker",
+    "player_value": 3625666,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 3625666
+  },
+  {
+    "player_id": 481,
+    "player_name": "Dean Donovan",
+    "player_value": 2554565,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2554565
+  },
+  {
+    "player_id": 482,
+    "player_name": "Jennifer Hernandez",
+    "player_value": 1879432,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1879432
+  },
+  {
+    "player_id": 483,
+    "player_name": "James Whitaker",
+    "player_value": 1189063,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_1",
+    "value": 1189063
+  },
+  {
+    "player_id": 484,
+    "player_name": "Mr. Michael Scott PhD",
+    "player_value": 2740361,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 2740361
+  },
+  {
+    "player_id": 485,
+    "player_name": "Maria Henry",
+    "player_value": 1578137,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 1578137
+  },
+  {
+    "player_id": 486,
+    "player_name": "Robert Jackson",
+    "player_value": 2728067,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_12",
+    "value": 2728067
+  },
+  {
+    "player_id": 487,
+    "player_name": "Katherine Stark",
+    "player_value": 2019031,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 2019031
+  },
+  {
+    "player_id": 488,
+    "player_name": "Maria Brown",
+    "player_value": 3705114,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_18",
+    "value": 3705114
+  },
+  {
+    "player_id": 489,
+    "player_name": "Ryan Landry",
+    "player_value": 979608,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 979608
+  },
+  {
+    "player_id": 490,
+    "player_name": "Pamela Gutierrez",
+    "player_value": 844125,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_5",
+    "value": 844125
+  },
+  {
+    "player_id": 491,
+    "player_name": "Crystal Mann",
+    "player_value": 2087131,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_16",
+    "value": 2087131
+  },
+  {
+    "player_id": 492,
+    "player_name": "Jonathan Brooks",
+    "player_value": 1660705,
+    "position": "Midfielder",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1660705
+  },
+  {
+    "player_id": 493,
+    "player_name": "Mary Jensen",
+    "player_value": 2026194,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_10",
+    "value": 2026194
+  },
+  {
+    "player_id": 494,
+    "player_name": "Mr. Aaron Arnold",
+    "player_value": 850147,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_4",
+    "value": 850147
+  },
+  {
+    "player_id": 495,
+    "player_name": "Joseph Hill",
+    "player_value": 1399457,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_13",
+    "value": 1399457
+  },
+  {
+    "player_id": 496,
+    "player_name": "Alicia Li",
+    "player_value": 2310524,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 2310524
+  },
+  {
+    "player_id": 497,
+    "player_name": "Renee Browning",
+    "player_value": 3089793,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_15",
+    "value": 3089793
+  },
+  {
+    "player_id": 498,
+    "player_name": "Brent Hernandez",
+    "player_value": 1605779,
+    "position": "Goalkeeper",
+    "is_listed_for_sale": false,
+    "team_id": "team_8",
+    "value": 1605779
+  },
+  {
+    "player_id": 499,
+    "player_name": "Joseph Ochoa",
+    "player_value": 4327845,
+    "position": "Forward",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 4327845
+  },
+  {
+    "player_id": 500,
+    "player_name": "James Watson",
+    "player_value": 1658331,
+    "position": "Defender",
+    "is_listed_for_sale": false,
+    "team_id": "team_9",
+    "value": 1658331
+  }
+]
