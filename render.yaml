@@ -1,0 +1,31 @@
+services:
+  # ── Backend API + Static file server ────────────────────────────────────────
+  - type: web
+    name: fantasy-football-manager
+    runtime: node
+    region: oregon
+    plan: free
+
+    # Build: install deps, generate Prisma client, compile TypeScript,
+    # then build the React client so it can be served statically
+    buildCommand: |
+      cd server && npm ci && npm run build &&
+      cd ../client && npm ci && npm run build
+
+    # Start the compiled Express server from the server/dist directory
+    startCommand: cd server && npm start
+
+    # Environment variables — set these in the Render dashboard
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: DATABASE_URL
+        sync: false          # set in Render dashboard (MySQL connection string)
+      - key: JWT_SECRET
+        generateValue: true  # Render auto-generates a secure random value
+      - key: CLIENT_URL
+        sync: false          # set to your Render service URL, e.g. https://fantasy-football-manager.onrender.com
+
+    healthCheckPath: /api/health
