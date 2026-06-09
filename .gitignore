@@ -8,6 +8,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # Environment Variables
+.env.*.local
 
 # Build outputs
 dist/
