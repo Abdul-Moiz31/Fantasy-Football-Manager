@@ -6,9 +6,11 @@ import { HomePage } from "@/pages/HomePage"
 import { AuthPage } from "@/pages/AuthPage"
 import { TeamPage } from "@/pages/TeamPage"
 import { MarketPage } from "@/pages/MarketPage"
+import { LeaderboardPage } from "@/pages/LeaderboardPage"
 import { ProtectedRoute } from "@/components/ProtectedRoute"
 import { DashboardLayout } from "@/components/layouts/DashboardLayout"
 import { Toaster } from "@/components/ui/Toaster"
+import { ROUTES } from "@/constants"
 
 function App() {
   return (
@@ -16,35 +18,45 @@ function App() {
       <AuthProvider>
         <TeamProvider>
           <MarketProvider>
+            <Toaster />
             <Routes>
-              <Route path="/auth" element={<AuthPage />} />
+              <Route path={ROUTES.AUTH} element={<AuthPage />} />
               <Route
-                path="/"
+                path={ROUTES.HOME}
                 element={
                   <ProtectedRoute>
-                    <DashboardLayout title="Dashboard" subtitle="Overview & Statistics">
+                    <DashboardLayout>
                       <HomePage />
                     </DashboardLayout>
                   </ProtectedRoute>
                 }
               />
               <Route
-                path="/market"
+                path={ROUTES.MARKET}
                 element={
                   <ProtectedRoute>
-                    <DashboardLayout title="Transfer Market" subtitle="Buy & Sell Players">
+                    <DashboardLayout>
                       <MarketPage />
                     </DashboardLayout>
                   </ProtectedRoute>
                 }
               />
-
               <Route
-                path="/team"
+                path={ROUTES.TEAM}
                 element={
                   <ProtectedRoute>
-                    <DashboardLayout title="My Team" subtitle="Manage Your Squad">
+                    <DashboardLayout>
                       <TeamPage />
+                    </DashboardLayout>
+                  </ProtectedRoute>
+                }
+              />
+              <Route
+                path={ROUTES.LEADERBOARD}
+                element={
+                  <ProtectedRoute>
+                    <DashboardLayout>
+                      <LeaderboardPage />
                     </DashboardLayout>
                   </ProtectedRoute>
                 }

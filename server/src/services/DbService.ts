@@ -5,28 +5,39 @@ import * as path from 'path';
 
 const prisma = new PrismaClient();
 
-// Helper function to get player data from JSON
-function getPlayerFromJson(playerId: number) {
-  try {
-    const playersPath = path.join(__dirname, '../../../data/players.json');
-    const playersData = JSON.parse(fs.readFileSync(playersPath, 'utf8'));
-    return playersData.find((p: any) => p.player_id === playerId);
-  } catch (error) {
-    console.error('Error reading players.json:', error);
-    return null;
+// Resolve players.json relative to the project root, not the compiled file location.
+// process.cwd() is the server/ directory when running via npm scripts.
+function getPlayersPath(): string {
+  const candidates = [
+    path.join(process.cwd(), 'data/players.json'),
+    path.join(process.cwd(), '../data/players.json'),
+    path.join(__dirname, '../../../data/players.json'),
+  ];
+  for (const p of candidates) {
+    if (fs.existsSync(p)) return p;
   }
+  return candidates[0];
 }
 
-// Helper function to get multiple players from JSON
-function getPlayersFromJson(playerIds: number[]) {
+let _playersCache: any[] | null = null;
+
+function loadPlayersJson(): any[] {
+  if (_playersCache) return _playersCache;
   try {
-    const playersPath = path.join(__dirname, '../../../data/players.json');
-    const playersData = JSON.parse(fs.readFileSync(playersPath, 'utf8'));
-    return playersData.filter((p: any) => playerIds.includes(p.player_id));
+    _playersCache = JSON.parse(fs.readFileSync(getPlayersPath(), 'utf8'));
+    return _playersCache!;
   } catch (error) {
     console.error('Error reading players.json:', error);
     return [];
   }
+}
+
+function getPlayerFromJson(playerId: number) {
+  return loadPlayersJson().find((p: any) => p.player_id === playerId) || null;
+}
+
+function getPlayersFromJson(playerIds: number[]) {
+  return loadPlayersJson().filter((p: any) => playerIds.includes(p.player_id));
 }
 
 export const dbService = {
@@ -211,8 +222,7 @@ export const dbService = {
 
   // Player operations (now using JSON)
   async getPlayers() {
-    const playersPath = path.join(__dirname, '../../../data/players.json');
-    const playersData = JSON.parse(fs.readFileSync(playersPath, 'utf8'));
+    const playersData = loadPlayersJson();
     return playersData.map((p: any) => ({
       id: p.player_id,
       name: p.player_name,

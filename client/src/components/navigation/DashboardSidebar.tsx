@@ -1,16 +1,17 @@
 import React from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
-import { Home, ShoppingCart, UserCircle, X, LogOut, MoreHorizontal } from 'lucide-react';
+import { Home, ShoppingCart, Users, X, LogOut, Trophy } from 'lucide-react';
 import { useAuth } from '@/contexts/AuthContext';
 import { useTeam } from '@/contexts/TeamContext';
 import { Button } from '@/components/ui/Button';
-import { formatTeamNameFromEmail } from '@/utils';
+import { formatTeamNameFromEmail, formatCurrency } from '@/utils';
 import { ROUTES } from '@/constants';
 
 const navLinks = [
   { to: ROUTES.HOME, label: "Dashboard", icon: Home },
-  { to: ROUTES.MARKET, label: "Market", icon: ShoppingCart },
-  { to: ROUTES.TEAM, label: "My Team", icon: UserCircle },
+  { to: ROUTES.MARKET, label: "Transfer Market", icon: ShoppingCart },
+  { to: ROUTES.TEAM, label: "My Team", icon: Users },
+  { to: ROUTES.LEADERBOARD, label: "Leaderboard", icon: Trophy },
 ];
 
 interface DashboardSidebarProps {
@@ -79,32 +80,33 @@ export function DashboardSidebar({ isOpen, onClose }: DashboardSidebarProps) {
           })}
         </ul>
       </nav>
--
+
       {/* User Profile Section */}
       <div className="p-4 border-t border-[#1B5E20]">
-        <div className="flex items-center gap-3 p-3 rounded-xl bg-white/10">
-          <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center text-white font-semibold text-sm">
-            {/* {user?.email ? user.email[0].toUpperCase() : <UserCircle className="w-5 h-5" />} */}
+        <div className="flex items-center gap-3 p-3 rounded-xl bg-white/10 mb-3">
+          <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center text-white font-bold text-base flex-shrink-0">
+            {user?.email ? user.email[0].toUpperCase() : '?'}
           </div>
           <div className="flex-1 min-w-0">
-            <div className="text-sm font-medium text-white truncate">
+            <div className="text-sm font-semibold text-white truncate">
               {formatTeamNameFromEmail(user?.email || '')}
             </div>
-            <div className="text-xs text-white/70 truncate">
-              {user?.email}
-            </div>
+            {team?.budget != null && (
+              <div className="text-xs text-white/70 mt-0.5">
+                {formatCurrency(team.budget)} budget
+              </div>
+            )}
           </div>
         </div>
-        <div className="flex gap-2 mt-3">
-          <Button 
-            variant="ghost" 
-            size="sm" 
-            className="h-8 px-2 border border-white/20 hover:bg-red-500/20 hover:border-red-400 hover:text-red-200 rounded-lg transition-colors flex items-center justify-center" 
-            onClick={handleLogout}
-          >
-            <LogOut className="w-3 h-3" />
-          </Button>
-        </div>
+        <Button
+          variant="ghost"
+          size="sm"
+          className="w-full h-9 border border-white/20 hover:bg-red-500/20 hover:border-red-400 hover:text-red-200 rounded-lg transition-colors flex items-center justify-center gap-2 text-white/80 text-sm"
+          onClick={handleLogout}
+        >
+          <LogOut className="w-4 h-4" />
+          Sign out
+        </Button>
       </div>
     </aside>
   );

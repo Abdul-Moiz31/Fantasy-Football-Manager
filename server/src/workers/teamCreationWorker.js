@@ -52,10 +52,22 @@ if (isMainThread) {
     return shuffled.slice(0, count);
   }
 
+  function resolvePlayersPath() {
+    const candidates = [
+      path.join(process.cwd(), 'data/players.json'),
+      path.join(process.cwd(), '../data/players.json'),
+      path.join(__dirname, '../../../data/players.json'),
+    ];
+    for (const p of candidates) {
+      if (fs.existsSync(p)) return p;
+    }
+    return candidates[0];
+  }
+
   async function createTeamWithPlayers() {
     try {
       // Read from JSON file
-      const playersPath = path.join(__dirname, '../../../data/players.json');
+      const playersPath = resolvePlayersPath();
       const playersData = JSON.parse(fs.readFileSync(playersPath, 'utf8'));
 
       // Get all already assigned players across all teams

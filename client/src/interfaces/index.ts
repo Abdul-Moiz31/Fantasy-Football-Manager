@@ -60,10 +60,18 @@ export interface PlayerFilters {
 
 export interface AuthContextType {
   user: User | null
-  unifiedAuth: (data: { email: string; password: string; username?: string; teamName?: string }) => Promise<{ success: boolean; error?: string }>
+  unifiedAuth: (data: { email: string; password: string; username?: string; teamName?: string }) => Promise<{ success: boolean; error?: string; data?: any }>
   logout: () => void
   loading: boolean
-  updateUser: (updatedUser: User) => void
+}
+
+export interface TeamContextType {
+  team: Team | null
+  setTeam: (team: Team | null) => void
+  createTeam: (name: string) => Promise<boolean>
+  addPlayerToTeam: (player: Player) => Promise<boolean>
+  removePlayerFromTeam: (playerId: number) => Promise<boolean>
+  loading: boolean
 }
 
 export interface ApiResponse<T> {

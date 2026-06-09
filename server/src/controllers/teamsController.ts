@@ -49,10 +49,38 @@ export const getAllTeams = async (req: express.Request, res: express.Response): 
     })
   } catch (error) {
     console.error('Error fetching teams:', error)
-    res.status(500).json({ 
+    res.status(500).json({
       success: false,
-      message: 'Server error fetching teams' 
+      message: 'Server error fetching teams'
     })
+  }
+}
+
+export const getLeaderboard = async (req: express.Request, res: express.Response): Promise<void> => {
+  try {
+    const teams = await dbService.getAllTeams()
+
+    const ranked = teams
+      .map((team: any) => {
+        const squadValue = (team.players || []).reduce(
+          (sum: number, p: any) => sum + (p.value || 0),
+          0
+        )
+        return {
+          id: team.id,
+          name: team.name,
+          playerCount: team.players?.length || 0,
+          budget: team.budget,
+          squadValue,
+          totalAssets: squadValue + team.budget,
+        }
+      })
+      .sort((a: any, b: any) => b.totalAssets - a.totalAssets)
+
+    res.json({ success: true, data: ranked })
+  } catch (error) {
+    console.error('Error fetching leaderboard:', error)
+    res.status(500).json({ success: false, message: 'Server error fetching leaderboard' })
   }
 }
 
