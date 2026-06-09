@@ -79,12 +79,12 @@ export function DashboardSidebar({ isOpen, onClose }: DashboardSidebarProps) {
           })}
         </ul>
       </nav>
--
+
       {/* User Profile Section */}
       <div className="p-4 border-t border-[#1B5E20]">
         <div className="flex items-center gap-3 p-3 rounded-xl bg-white/10">
           <div className="w-10 h-10 rounded-full bg-white/20 flex items-center justify-center text-white font-semibold text-sm">
-            {/* {user?.email ? user.email[0].toUpperCase() : <UserCircle className="w-5 h-5" />} */}
+            {user?.email ? user.email[0].toUpperCase() : <UserCircle className="w-5 h-5" />}
           </div>
           <div className="flex-1 min-w-0">
             <div className="text-sm font-medium text-white truncate">
