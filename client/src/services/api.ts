@@ -72,6 +72,11 @@ export const teamApi = {
     return response.data
   },
 
+  getLeaderboard: async (): Promise<ApiResponse<any[]>> => {
+    const response = await api.get("/teams/leaderboard")
+    return response.data
+  },
+
   addPlayer: async (playerData: { playerId: number }): Promise<ApiResponse<Team>> => {
     const response = await api.post("/teams/add-player", playerData)
     return response.data
