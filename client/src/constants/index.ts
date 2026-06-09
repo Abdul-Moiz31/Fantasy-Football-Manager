@@ -29,7 +29,8 @@ export const ROUTES = {
   HOME: '/',
   MARKET: '/market',
   TEAM: '/team',
-  AUTH: '/auth'
+  AUTH: '/auth',
+  LEADERBOARD: '/leaderboard',
 } as const;
 
 export const UI_COLORS = {
