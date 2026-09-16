@@ -4,9 +4,9 @@
   "description": "Backend server for football manager app",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
+    "dev": "node api.js && tsx watch src/index.ts",
     "build": "prisma generate && tsc",
-    "start": "node dist/index.js",
+    "start": "node api.js && node dist/index.js",
     "db:migrate": "prisma migrate deploy",
     "db:generate": "prisma generate",
     "lint": "eslint src --ext .ts"

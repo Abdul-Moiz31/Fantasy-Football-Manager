@@ -56,7 +56,6 @@ test-results/
 playwright-report/
 
 # IDE and Editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -145,5 +144,4 @@ sessions/
 
 # Misc
 .DS_Store
-.vscode/
 .idea/
